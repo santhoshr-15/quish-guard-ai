@@ -9,4 +9,5 @@ httpx
 beautifulsoup4
 cryptography
 requests
+idna
 pillow
