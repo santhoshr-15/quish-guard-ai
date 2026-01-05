@@ -1,0 +1,12 @@
+customtkinter
+pyautogui
+opencv-python
+numpy
+plyer
+dnspython
+ipwhois
+httpx
+beautifulsoup4
+cryptography
+requests
+pillow
