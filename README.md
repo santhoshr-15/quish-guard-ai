@@ -115,7 +115,8 @@ Suspicious HTML     | Med    | High entropy (obfuscated code) detected.
 --- 
 
 ## 📸 Screenshots
-![Quish-Guard AI Demo](<img width="1359" height="638" alt="image" src="https://github.com/user-attachments/assets/691e2cbf-af78-43d5-901a-49da29365f37" />)
+![Quish-Guard AI Demo](https://github.com/santhoshr-15/quish-guard-ai/blob/main/demo-screenshot.png?raw=true)
+
 
 
 
@@ -123,6 +124,7 @@ Suspicious HTML     | Med    | High entropy (obfuscated code) detected.
 This tool is intended for educational and defensive purposes only. It is designed to protect users from phishing attacks. The author is not responsible for any misuse of the information or code provided herein.
 
 ---
+
 
 👨‍💻 Author
 Santhosh Kumar R  
