@@ -112,7 +112,12 @@ Fresh SSL Cert      | High   | Certificate created < 14 days ago.
 Deep Redirects      | Med    | URL redirects more than 3 times.
 Suspicious HTML     | Med    | High entropy (obfuscated code) detected.
 
----
+--- 
+
+## 📸 Screenshots
+![Quish-Guard AI Demo](<img width="1359" height="638" alt="image" src="https://github.com/user-attachments/assets/691e2cbf-af78-43d5-901a-49da29365f37" />)
+
+
 
 ⚠️ Disclaimer
 This tool is intended for educational and defensive purposes only. It is designed to protect users from phishing attacks. The author is not responsible for any misuse of the information or code provided herein.
@@ -122,4 +127,3 @@ This tool is intended for educational and defensive purposes only. It is designe
 👨‍💻 Author
 Santhosh Kumar R  
 Cyber Security Student | Saveetha Engineering College  
-LinkedIn | GitHub
