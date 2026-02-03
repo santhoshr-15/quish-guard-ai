@@ -121,7 +121,7 @@ Suspicious HTML     | Med    | High entropy (obfuscated code) detected.
 
 
 ⚠️ Disclaimer
-This tool is intended for educational and defensive purposes only. It is designed to protect users from phishing attacks. The author is not responsible for any misuse of the information or code provided herein.
+This tool is intended for educational and defensive purposes only. It is designed to protect users from phishing attacks. The author is not responsible for any misuse of the information or code provided herein 
 
 ---
 
@@ -130,4 +130,4 @@ This tool is intended for educational and defensive purposes only. It is designe
 Santhosh Kumar R 
 Collaborator 
 Loga Mithra R
-Cyber Security Student | Saveetha Engineering College  
+Cyber Security Student | Saveetha Engineering college
